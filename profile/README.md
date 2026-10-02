@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://datafuel.ai">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://dashboard.datafuel.ai/web-app-manifest-192x192.png">
-      <img src="https://dashboard.datafuel.ai/web-app-manifest-192x192.png" alt="DataFuel" height="140">
+      <source media="(prefers-color-scheme: dark)" srcset="./Symbol.png">
+      <img src="./Symbol.png" alt="DataFuel" height="140">
     </picture>
   </a>
 
